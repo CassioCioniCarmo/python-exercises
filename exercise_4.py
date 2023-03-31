@@ -19,13 +19,13 @@
 """
 
 if __name__ == '__main__':
-    number_students = int(input())
+    number_students = int(input("Insert the number of students:"))
     student_marks = {}
     for _ in range(number_students):
-        name_students, *line = input().split()
+        name_students, *line = input("Insert the name of students with their mark:").split()
         scores_students = list(map(float, line))
         student_marks[name_students] = scores_students
-    query_name = input()
+    query_name = input("Student's name to check the average grade:")
     
     sum_marks = 0
     for i in range(len(student_marks[query_name])):
