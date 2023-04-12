@@ -1,5 +1,5 @@
 """
-   Exercice - 6: Print Function
+   Exercise - 6: Print Function
     
    Sample Input 0
    3

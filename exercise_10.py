@@ -1,5 +1,5 @@
 """
-   Exercice - 10:  Tuples
+   Exercise - 10:  Tuples
    Given an integer, n, and n space-separated integers as input, create a tuple, t, of those n integers. 
    Then compute and print the result of hash(t).
 

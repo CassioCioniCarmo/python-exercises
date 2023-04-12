@@ -1,5 +1,5 @@
 """
-    Exercice - 2: The sum of two numbers
+    Exercise - 2: The sum of two numbers
     A python program just to add two numbers passed by the user and show the result
     
     Cassio Cioni Carmo - 03/30/2023

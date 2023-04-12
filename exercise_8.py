@@ -1,5 +1,5 @@
 """
-   Exercice - 8:  Print a list of all possible coordinates given by (i, j, k)  on a 3D grid where the sum of i + j + k is not equal to n.
+   Exercise - 8:  Print a list of all possible coordinates given by (i, j, k)  on a 3D grid where the sum of i + j + k is not equal to n.
    Print the list in lexicographic increasing order.
 
    Sample Input 0

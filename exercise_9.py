@@ -1,5 +1,5 @@
 """
-   Exercice - 9:  Lists
+   Exercise - 9:  Lists
 
    Sample Input 0
     12

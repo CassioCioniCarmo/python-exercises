@@ -1,5 +1,5 @@
 """
-    Exercice - 3: The two numbers calculator
+    Exercise - 3: The two numbers calculator
     A python program just to make a operation choosed by the user
     
     Cássio Cioni Carmo - 03/30/2023
