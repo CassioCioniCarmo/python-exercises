@@ -1,5 +1,5 @@
 """
-    Exercise - 14:  Find a string
+    Exercise - 15:  Find a string
 
    Sample Input
     ABCDCDC
